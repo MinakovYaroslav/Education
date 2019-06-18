@@ -1,7 +1,6 @@
 package com.yaroslav.javacore.chapter18;
 
-import java.util.ArrayList;
-import java.util.Spliterator;
+import java.util.*;
 
 public class SpliteratorDemo {
 
